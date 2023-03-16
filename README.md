@@ -1,13 +1,4 @@
 
-## Hola! Soy Tatiana 🇪🇸
-
-<p>Soy desarrolladora Frontend con un puntito de artista 🎨</p> </br>
-<p>Me dedico al diseño y desarrollo de interfaces gráficas con Javascript y Angular</p>
-<p>Me interesa el mundo de la experiencia de usuario y cómo influye un diseño en la forma de usar una web o aplicación.</br> 
-<p>Creo que el diseño es tan importante como el desarrollo en una app o web, ya que un buen diseño facilita la usabilidad, y al fin y al cabo creamos productos digitales para que los usen personas 👧 👦 👱‍♀️ 👨‍ </p>
-<p>Me gusta trabajar en lugares donde pueda aportar mi granito de arena dentro de un equipo y aprender nuevas tecnologías y si son proyectos con propósito, mucho mejor 🍃 🌳 🎋 🌍 🐇 🐒 🐘 🐈 </p>
-</br>
-
 ## Hi! I'm Tatiana 🇬🇧
 <p>I'm a Frontend developer with a little bit of an artist 🎨</p>
 <p>I am dedicated to the design and development of graphical interfaces with Javascript and Angular</p>
